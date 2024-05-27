@@ -12,27 +12,27 @@ If you want to help us, give us a good score ⭐️⭐️⭐️⭐️⭐️ in t
 ## ✨ Full Transparency of the Redundant Code 
 Scan and display the list of redundant code segments in your project. Tool option: "All Segments(All Files)".
 
-![Alt-Text](https://github.com/stojanai/LOCI/blob/main/1.1.%20Full%20transparency%20of%20redundant%20code%20v1.gif)
+![Alt-Text](https://github.com/auroralabs-ai/loci-optimize/blob/main/1.%20Full%20transparency%20of%20redundant%20code.gif)
 
 ## ✨ Short List Redundant Code
 Scan and display the list of redundant code for the currently opened source file. Tool option: "Auto Optimizable Segments(Visible Files)".
 
-![gif2](https://github.com/stojanai/LOCI/blob/main/2.1.%20Short-list%20redundant%20code.gif)
+![gif2](https://github.com/auroralabs-ai/loci-optimize/blob/main/2.%20Short-list%20redundant%20code.gif)
 
 ## ✨ Automatically Refactoring Code According to Your Style
 Extract function for the selected candidate(s) from the list "Similar Code Segments".
 
-![gif2](https://github.com/stojanai/LOCI/blob/main/3.1.%20Automatically%20refactor%20redundant%20code%20according%20developer%20style.gif)
+![gif2](https://github.com/auroralabs-ai/loci-optimize/blob/main/3.%20Automatically%20refactor%20redundant%20code%20according%20developer%20style.gif)
 
 ## ✨ Manually Fix & Apply for All Similar Segments Selected 
 Select a code segment from the list "Similar Code Segments", change the code in the box "Select & Apply", than "Apply Changes". Tool option "Replace Similar Code".
 
-![gif2](https://github.com/stojanai/LOCI/blob/main/4.1.%20Fix%20manually%20similar%20segments%20(warrning%2C%20security%20warrning%2C%20bug).gif)
+![gif2](https://github.com/auroralabs-ai/loci-optimize/blob/main/4.%20Fix%20manually%20similar%20segments%20(warrning%2C%20security%20warrning%2C%20bug).gif)
 
 ## ✨ Rules Management
 Prioritize the quality fix activities based on the occurrence of the problem in source code.
 
-![gif2](https://github.com/stojanai/LOCI/blob/main/5.1.%20Rules%20Management.gif)
+![gif2](https://github.com/auroralabs-ai/loci-optimize/blob/main/5.%20Rules%20Management.gif)
 
 
 ## ✨ Use Cases and LOCI addeed value 🚀
