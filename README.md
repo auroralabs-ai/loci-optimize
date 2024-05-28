@@ -3,7 +3,7 @@
 AI and Machine Learning help understand coding patterns better and suggest more intelligent refactoring changes that adapt to the project or developer's coding style.
 
 ##Get AI refactoring advice in real-time, right in your IDE
-![gif1](https://github.com/auroralabs-ai/loci-optimize/blob/main/1.%20Full%20transparency%20of%20redundant%20code.gif)
+![gif1](https://github.com/auroralabs-ai/loci-optimize/blob/main/1.1.%20Full%20transparency%20of%20redundant%20code%20v1.gif)
 
 ##Privacy
 What is yours stays yours; you can learn more about our privacy and responsible AI at www.loci-dev.com/privecy
@@ -23,17 +23,17 @@ Like Shazam for music, LOCI listens to your music==your software lines of code a
 ## ✨ Full Transparency of the Redundant Code 
 Scan snipped code, part of a function, and LOCI, Like Shazam for Music, but for SW lines of code will display the list of Cloned, redundant code segments in your project and Repos.
 
-![gif2](https://github.com/auroralabs-ai/loci-optimize/blob/main/2.%20Short-list%20redundant%20code.gif)
+![gif2](https://github.com/auroralabs-ai/loci-optimize/blob/main/2.1.%20Short-list%20redundant%20code.gif)
 
 ## ✨ Automatically Refactoring Code According to Your Style
 Extract function for the selected candidate(s)
 
-![gif3](https://github.com/auroralabs-ai/loci-optimize/blob/main/3.%20Automatically%20refactor%20redundant%20code%20according%20developer%20style.gif)
+![gif3](https://github.com/auroralabs-ai/loci-optimize/blob/main/3.1.%20Automatically%20refactor%20redundant%20code%20according%20developer%20style.gif)
 
 ## ✨ Fix Manually in one time, one place and apply for all other similar segments
 This will reduce software maintenance and bug-fixing time by 20-30%.
 
-![gif4](https://github.com/auroralabs-ai/loci-optimize/blob/main/4.%20Fix%20manually%20similar%20segments%20(warrning%2C%20security%20warrning%2C%20bug).gif)
+![gif4](https://github.com/auroralabs-ai/loci-optimize/blob/main/4.1.%20Fix%20manually%20similar%20segments%20(warrning%2C%20security%20warrning%2C%20bug).gif)
 
 ## ✨ Use Cases and LOCI added value 🚀
 Why is continuous refactoring a MUST and not an Option? 
