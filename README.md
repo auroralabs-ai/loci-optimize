@@ -1,104 +1,107 @@
-# Aurora Labs LOCI 
-## ✨ Support Lines-of-Code Intelligence (LOCI) 🥳
+## LOCI, building a future where anyone can become an expert developer or tester and create reliable, high-quality software.
+✨ First launch, LOCI for Refactoring.
+AI and Machine Learning help understand coding patterns better and suggest more intelligent refactoring changes that adapt to the project or developer's coding style.
 
-Meet LOCI, your AI Quality Advisor, able to safeguard increased performance & resource efficient usage as daily bases activity.
+##Get AI refactoring advice in real-time, right in your IDE
+![gif1](https://github.com/auroralabs-ai/loci-optimize/blob/main/1.%20Full%20transparency%20of%20redundant%20code.gif)
 
-If you want to help us, give us a good score ⭐️⭐️⭐️⭐️⭐️ in the Visual Studio Code marketplace at this link:
-[VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt&ssr=false#review-details)
+##Privacy
+What is yours stays yours; you can learn more about our privacy and responsible AI at www.loci-dev.com/privecy
 
+##Under the hood
+✨LOCI uses our built-in, proprietary Large Code Language Model (LCLM), a TRANSFORMER model based on our layers. It has been trained on over 
+5 billion lines of code in C and C++, creating billions of new tokens, making AI-based refactoring real and reliable.
+
+✨Maximum qualified advice for software refactoring is provided through reinventing vocabulary, training, tokenizers, an error prediction mechanism to ensure maximum model quality.
+
+
+✨It is compatible with Visual Studio version XX or higher and GitHub.
 
 ## What can you do with LOCI today?
+Like Shazam for music, LOCI listens to your music==your software lines of code and identifies similarities, which indicate cloned or redundant code.
 
 ## ✨ Full Transparency of the Redundant Code 
-Scan and display the list of redundant code segments in your project. Tool option: "All Segments(All Files)".
-
-![Alt-Text](https://github.com/auroralabs-ai/loci-optimize/blob/main/1.%20Full%20transparency%20of%20redundant%20code.gif)
-
-## ✨ Short List Redundant Code
-Scan and display the list of redundant code for the currently opened source file. Tool option: "Auto Optimizable Segments(Visible Files)".
+Scan snipped code, part of a function, and LOCI, Like Shazam for Music, but for SW lines of code will display the list of Cloned, redundant code segments in your project and Repos.
 
 ![gif2](https://github.com/auroralabs-ai/loci-optimize/blob/main/2.%20Short-list%20redundant%20code.gif)
 
 ## ✨ Automatically Refactoring Code According to Your Style
-Extract function for the selected candidate(s) from the list "Similar Code Segments".
+Extract function for the selected candidate(s)
 
-![gif2](https://github.com/auroralabs-ai/loci-optimize/blob/main/3.%20Automatically%20refactor%20redundant%20code%20according%20developer%20style.gif)
+![gif3](https://github.com/auroralabs-ai/loci-optimize/blob/main/3.%20Automatically%20refactor%20redundant%20code%20according%20developer%20style.gif)
 
-## ✨ Manually Fix & Apply for All Similar Segments Selected 
-Select a code segment from the list "Similar Code Segments", change the code in the box "Select & Apply", than "Apply Changes". Tool option "Replace Similar Code".
+## ✨ Fix Manually in one time, one place and apply for all other similar segments
+This will reduce software maintenance and bug-fixing time by 20-30%.
 
-![gif2](https://github.com/auroralabs-ai/loci-optimize/blob/main/4.%20Fix%20manually%20similar%20segments%20(warrning%2C%20security%20warrning%2C%20bug).gif)
+![gif4](https://github.com/auroralabs-ai/loci-optimize/blob/main/4.%20Fix%20manually%20similar%20segments%20(warrning%2C%20security%20warrning%2C%20bug).gif)
 
-## ✨ Rules Management
-Prioritize the quality fix activities based on the occurrence of the problem in source code.
-
-![gif2](https://github.com/auroralabs-ai/loci-optimize/blob/main/5.%20Rules%20Management.gif)
-
-
-## ✨ Use Cases and LOCI addeed value 🚀
-Why continuous Refactoring is a MUST and not an Option? 
-Why including refactoring and optimization techniques in the product Roadmap, every sprint?
+## ✨ Use Cases and LOCI added value 🚀
+Why is continuous refactoring a MUST and not an Option? 
+Why include refactoring and optimization techniques in the product roadmap for every sprint?
 
 
-## Fulfill Quality and Compliance mandatory requirements 
-The delivery is at risk because the source code is not bug free and is not compliant with industry quality standards.
+## Fulfill Quality and Compliance requirements 
+The delivery is at risk because the source code is not bug-free and does not comply with different industry quality standards.
 
-LOCI added value for customer: enables the developers in early development stage to prepare the code for compliance with safety and security requirements (ISO 26262, ISO/SAE 21434, MISRA, CERT, etc.). 
-As a result, the product is ready for customer as planned and with reduced risks.
+LOCI added value for the customer by enabling the developers in the early development stage to prepare the code for compliance with safety and security requirements (ISO 26262, ISO/SAE 21434, MISRA, CERT, etc.). 
+As a result, the product is ready for customers as planned and with reduced risks.
 
 LOCI capabilities:
 
-Redundant code cleaning: Identify similar segment in multiple Repos and advices how to cleanse cloned code and refactor redundant segments
+Redundant code cleaning: Identify similar segments in multiple Repos and advise how to cleanse cloned code and refactor redundant segments
 
 Ensuring Code Compliance: Updating the code to align with new standards or technologies, ensuring compliance with regulatory requirements, or adhering to new security policies.
 
 
 ## Implement NON-functional requirements at customer request
-The non functional requirements are relevant for a product Homologation, more than the number of features delivered, therefore, this type of requirements will always be mandatory. 
+The non-functional requirements are more relevant for a product Homologation than the number of features delivered; therefore, this type of requirement will always be mandatory. 
 
-Example: performance KPIs, efficient usage of resources, customer safety and security, cost saving, sustainability.
+Examples: performance KPIs, efficient usage of resources, customer safety and security, cost saving, and sustainability.
 
-LOCI added value for customer: increased performance with less code to execute, safety and security enabler for developers to stop the error propagation in chain, reduced FTTI (Fault Tolerant Time Interval), reduced incident response time.
+LOCI added value for the customer by increasing performance with less code to execute, providing a safety and security enabler for developers to stop error propagation in the chain, and reducing FTTI, Fault Tolerant Time Interval, and incident response time.
 
-LOCI capabilities for Embeedded Systems: optimize the code for the best memory and execution performance
+LOCI capabilities for Embedded Systems: optimize the code for the best memory and execution performance
 
 Improved Performance: Altering algorithms or improving data structures to boost the performance of the software
 
-Increased Hardware Lifespan: reduced binary and efficient usage of resources concludes with less system friction and longer hardware lifetime.
+Increased Hardware Lifespan: Reduced binary and efficient resource usage results in less system friction and longer hardware lifetime.
 
-Sustainability: less battery consumption and better vehicle network usage with reduced latency, better controlled task schedule and efficient memory management.
+Sustainability: less battery consumption, better device network usage, reduced latency, better-controlled task schedule, and efficient memory management.
 
 
 ## Troubleshoot, Maintenance and Customer Support
 
-API or 3rd party libraries, bugs identified post release, introducing Change Requests are mandatory Maintenance activities that every SW provider would like to do as fast as possible so that the focus stays with new features of the new platform or a new product.
+API or third-party libraries, bugs identified post-release, and introducing Change Requests are mandatory Maintenance activities that every SW provider would like to do as fast as possible so that the focus stays on the new features of the new platform or product.
 
-Fast and accurate answers to customer questions is not only contractual duty, but also reputation and brand protection.
+Fast and accurate answers to customer questions are not only a contractual duty but also reputation and brand protection.
 
-LOCI added value for customer: fast troubleshooting in local and distributed development environment; enabler for risk assessment before the Change Request is accepted.
+LOCI added value for the customer by providing fast troubleshooting in a local and distributed development environment and enabling risk assessment before the Change Request is accepted.
 
 LOCI capabilities:
-Improving Code Readability: Making the code easier to read and understand by others (or by you in the future), which is crucial for teams and long-term projects.
+Improving Code Readability: Making the code easier for others (or for you in the future) to read and understand is crucial for teams and long-term projects.
 
 Reducing Complexity: Breaking down complex code blocks into simpler, smaller units that are easier to manage, test & debug.
 
-Identifying and Fixing Bugs: During the refactoring process, it's common to find and correct hidden or subtle bugs in the code that were not evident before.
+Identifying and Fixing Bugs: It is common to find and correct hidden or subtle bugs in the code during the refactoring process.
 
 ## Reuse the current architecture and the source code in the next platform generation
 
-Unresolved technical debts, inherited from one sprint to another, make the current platform hard or even impossible to be reused for next generation.
+Unresolved technical debts, inherited from one sprint to another, make the current platform difficult or even impossible to reuse for the next generation.
 
-LOCI added value for customer: enabler for reducing the source code complexity making it reusable for next platform generation.
+LOCI added value for the customer: an enabler for reducing the source code complexity making it reusable for the next platform generation.
 
+Optimizing Software Design: Enhancing the software design after initial development due to a better understanding of the problem or changes in requirements.
 
-LOCI capabilities:
-
-Optimizing Software Design: Enhancing the software design after initial development due to better understanding of the problem or changes in requirements.
-
-Preparing the Code for Extensions: Refactoring can help in reorganizing the code to accommodate new features or updates without a major overhaul.
+Preparing the Code for Extensions: Refactoring can help reorganize the code to accommodate new features or updates without a major overhaul.
 
 
-## ✨ Join Our Community 🤜 🤛
+If you want to help us, give us a good score ⭐️⭐️⭐️⭐️⭐️ in the Visual Studio Code marketplace at this link:
+[VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt&ssr=false#review-details)
 
-We believe in collaboration and feedback, which is why we encourage you to get involved in our vibrant and welcoming Discord community. Feel free to ask questions, suggest new features, and share your experience with fellow coders.
-[Click here to join our Discord.](https://discord.gg/vgTGsVr69s)
+## Download 
+VS studio LINK-TBD
+GitHub LINK-TBD
+
+Learn more and see our upcoming AI advisor engineer intelligent conversation for SW reliability and quality
+www.loci-dev.com 
+
