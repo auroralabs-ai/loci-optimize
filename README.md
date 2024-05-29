@@ -18,6 +18,7 @@ What is yours stays yours; you can learn more about our privacy and responsible 
 
 ✨It is compatible with Visual Studio version 1.81.1 or higher and GitHub.
 
+
 ## What can you do with LOCI today?
 Like Shazam for music, LOCI listens to your music == your software lines of code and identifies similarities, which indicate cloned or redundant code.
 
