@@ -105,3 +105,6 @@ GitHub LINK-TBD
 Learn more and see our upcoming AI advisor engineer intelligent conversation for SW reliability and quality
 www.loci-dev.com 
 
+## ✨ FAQ
+Got a question or suggestions? Get in touch with us [Support](https://www.auroralabs.com/contact-us/) 
+
