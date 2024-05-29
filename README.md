@@ -16,7 +16,7 @@ What is yours stays yours; you can learn more about our privacy and responsible 
 
 ✨Maximum qualified advice for software refactoring is provided through reinventing vocabulary, training, tokenizers, an error prediction mechanism to ensure maximum model quality.
 
-✨It is compatible with Visual Studio version 1.81.1 or higher and GitHub.
+✨It is compatible with Visual Studio version 1.85.0 or higher and GitHub.
 
 
 ## What can you do with LOCI today?
