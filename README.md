@@ -1,8 +1,10 @@
 ## LOCI, building a future where anyone can become an expert developer or tester and create reliable, high-quality software.
-✨ First launch, LOCI for Refactoring.
+First launch, LOCI for Refactoring.
+
 AI and Machine Learning help understand coding patterns better and suggest more intelligent refactoring changes that adapt to the project or developer's coding style.
 
 ## Get AI refactoring advice in real-time, right in your IDE
+
 ![gif1](https://github.com/auroralabs-ai/loci-optimize/blob/main/1.1.%20Full%20transparency%20of%20redundant%20code%20v1.gif)
 
 ## Privacy
@@ -14,19 +16,18 @@ What is yours stays yours; you can learn more about our privacy and responsible 
 
 ✨Maximum qualified advice for software refactoring is provided through reinventing vocabulary, training, tokenizers, an error prediction mechanism to ensure maximum model quality.
 
-
-✨It is compatible with Visual Studio version XX or higher and GitHub.
+✨It is compatible with Visual Studio version 1.81.1 or higher and GitHub.
 
 ## What can you do with LOCI today?
-Like Shazam for music, LOCI listens to your music==your software lines of code and identifies similarities, which indicate cloned or redundant code.
+Like Shazam for music, LOCI listens to your music == your software lines of code and identifies similarities, which indicate cloned or redundant code.
 
 ## ✨ Full Transparency of the Redundant Code 
-Scan snipped code, part of a function, and LOCI, Like Shazam for Music, but for SW lines of code will display the list of Cloned, redundant code segments in your project and Repos.
+Scan snipped code, part of a function, and LOCI, Like Shazam for Music, but for SW lines of code, will display the list of Cloned, redundant code segments in your project and Repos.
 
 ![gif2](https://github.com/auroralabs-ai/loci-optimize/blob/main/2.1.%20Short-list%20redundant%20code.gif)
 
 ## ✨ Automatically Refactoring Code According to Your Style
-Extract function for the selected candidate(s)
+Extract function for the selected candidate(s).
 
 ![gif3](https://github.com/auroralabs-ai/loci-optimize/blob/main/3.1.%20Automatically%20refactor%20redundant%20code%20according%20developer%20style.gif)
 
@@ -35,12 +36,12 @@ This will reduce software maintenance and bug-fixing time by 20-30%.
 
 ![gif4](https://github.com/auroralabs-ai/loci-optimize/blob/main/4.1.%20Fix%20manually%20similar%20segments%20(warrning%2C%20security%20warrning%2C%20bug).gif)
 
-## ✨ Use Cases and LOCI added value 🚀
+## Use Cases and LOCI added value 🚀
 Why is continuous refactoring a MUST and not an Option? 
 Why include refactoring and optimization techniques in the product roadmap for every sprint?
 
 
-## Fulfill Quality and Compliance requirements 
+## ✨ Fulfill Quality and Compliance requirements 
 The delivery is at risk because the source code is not bug-free and does not comply with different industry quality standards.
 
 LOCI added value for the customer by enabling the developers in the early development stage to prepare the code for compliance with safety and security requirements (ISO 26262, ISO/SAE 21434, MISRA, CERT, etc.). 
@@ -53,7 +54,7 @@ Redundant code cleaning: Identify similar segments in multiple Repos and advise 
 Ensuring Code Compliance: Updating the code to align with new standards or technologies, ensuring compliance with regulatory requirements, or adhering to new security policies.
 
 
-## Implement NON-functional requirements at customer request
+## ✨ Implement NON-functional requirements at customer request
 The non-functional requirements are more relevant for a product Homologation than the number of features delivered; therefore, this type of requirement will always be mandatory. 
 
 Examples: performance KPIs, efficient usage of resources, customer safety and security, cost saving, and sustainability.
@@ -69,7 +70,7 @@ Increased Hardware Lifespan: Reduced binary and efficient resource usage results
 Sustainability: less battery consumption, better device network usage, reduced latency, better-controlled task schedule, and efficient memory management.
 
 
-## Troubleshoot, Maintenance and Customer Support
+## ✨ Troubleshoot, Maintenance and Customer Support
 
 API or third-party libraries, bugs identified post-release, and introducing Change Requests are mandatory Maintenance activities that every SW provider would like to do as fast as possible so that the focus stays on the new features of the new platform or product.
 
@@ -84,7 +85,7 @@ Reducing Complexity: Breaking down complex code blocks into simpler, smaller uni
 
 Identifying and Fixing Bugs: It is common to find and correct hidden or subtle bugs in the code during the refactoring process.
 
-## Reuse the current architecture and the source code in the next platform generation
+## ✨ Reuse the current architecture and the source code in the next platform generation
 
 Unresolved technical debts, inherited from one sprint to another, make the current platform difficult or even impossible to reuse for the next generation.
 
@@ -105,6 +106,6 @@ GitHub LINK-TBD
 Learn more and see our upcoming AI advisor engineer intelligent conversation for SW reliability and quality
 www.loci-dev.com 
 
-## ✨ FAQ
+## FAQ
 Got a question or suggestions? Get in touch with us [Support](https://www.auroralabs.com/contact-us/) 
 
