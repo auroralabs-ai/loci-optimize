@@ -1,5 +1,5 @@
 ## LOCI, building a future where anyone can become an expert developer or tester and create reliable, high-quality software.
-First launch, LOCI for Refactoring.
+First launch: LOCI for Refactoring.
 
 AI and Machine Learning help understand coding patterns better and suggest more intelligent refactoring changes that adapt to the project or developer's coding style.
 
@@ -64,9 +64,9 @@ LOCI added value for the customer by increasing performance with less code to ex
 
 LOCI capabilities for Embedded Systems: optimize the code for the best memory and execution performance
 
-Improved Performance: Altering algorithms or improving data structures to boost the performance of the software
+Improved Performance: altering algorithms or improving data structures to boost the performance of the software
 
-Increased Hardware Lifespan: Reduced binary and efficient resource usage results in less system friction and longer hardware lifetime.
+Increased Hardware Lifespan: reduced binary and efficient resource usage results in less system friction and longer hardware lifetime.
 
 Sustainability: less battery consumption, better device network usage, reduced latency, better-controlled task schedule, and efficient memory management.
 
